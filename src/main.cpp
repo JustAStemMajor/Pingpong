@@ -10,6 +10,7 @@ int main()
 
 {
 //Print game introduction
+//update
 cout << "Starting the game" << endl;
 //intialize const screen display
 const int screen_width = 1280;
